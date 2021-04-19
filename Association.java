@@ -1,3 +1,4 @@
+package net.codejava;
 import java.util.Map;
 
 /**
